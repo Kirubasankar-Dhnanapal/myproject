@@ -56,7 +56,7 @@ class App extends Component {
             <input type='button' value='Delete' style={{ marginLeft: '20%' }} /></div>
         </div>
       </div>
-    );
+    ); 
   }
 }
 
