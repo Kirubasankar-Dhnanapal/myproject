@@ -54,7 +54,8 @@ class App extends Component {
           <div style={{ marginTop: -20, marginLeft: '42%' }}>
             <input type='button' value='Edit' style={{ marginLeft: '15%' }} />
             <input type='button' value='Delete' style={{ marginLeft: '20%' }} /></div>
-        </div>
+        </div>  
+        
       </div>
     ); 
   }
